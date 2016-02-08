@@ -1,0 +1,15 @@
+PODS:
+  - Ensembles (1.5):
+    - Ensembles/Core (= 1.5)
+  - Ensembles/Core (1.5)
+  - GTNotification (1.4.3)
+
+DEPENDENCIES:
+  - Ensembles (~> 1.0)
+  - GTNotification (>= 1.4)
+
+SPEC CHECKSUMS:
+  Ensembles: 33c81244812b7d568a7fa76255708327efc66a4a
+  GTNotification: 17eeac5f2f0fc62b5ed7343e31e04172134ffcd7
+
+COCOAPODS: 0.39.0
